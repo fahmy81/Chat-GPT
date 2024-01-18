@@ -27,7 +27,7 @@ if __name__ == "__main__":
 
 
 
-  openai.api_key = "YOUR_API_KEY"
+  openai.api_key = "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"
 
   if(title != ""):
     with st.spinner("Generating response..."):
